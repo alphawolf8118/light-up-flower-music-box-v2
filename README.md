@@ -39,7 +39,6 @@ Early sketches exploring petal geometry, hinge placement, and crocus-inspired bl
 
 📂 Repo Structure
 
-Code
 sketches/                # Early design sketches  
 mechanism_exploration/   # Hinge studies, cam profiles, motion tests  
 electronics/             # Original circuit + V2 split circuit  
