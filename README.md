@@ -33,7 +33,11 @@ This made the crocus a perfect conceptual guide for designing the bloom mechanis
 
 Early sketches exploring petal geometry, hinge placement, and crocus-inspired bloom motion.
 
-(Add your images here once uploaded)
+### Sketch 1
+![Sketch 1](sketches/Light-Up-Flower-Sketch-1.jpg)
+
+### Sketch 2
+![Sketch 2](sketches/Light-Up-Flower-Sketch-2.jpg)
 
 ---
 
