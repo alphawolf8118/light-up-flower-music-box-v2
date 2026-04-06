@@ -1,10 +1,12 @@
 🌸 Light Up Flower Music Box V2
+
 A complete rebuild of my original light-up flower music box after V1 was broken by my toddler.
 V2 is being redesigned from scratch using sketches, physical intuition, and iterative prototyping — no CAD yet.
 
 ---
 
 🌱 Concept
+
 The crocus-inspired design came from the mechanical challenge: I wanted a flower that could physically open and close in a clean, radial motion and have a pistil similar to LEDs.
 Crocuses naturally exhibit:
 
@@ -17,6 +19,7 @@ This made the crocus a perfect conceptual guide for designing the bloom mechanis
 ---
 
 🔧 Engineering Focus
+
 -Rebuilding the bloom mechanism with stronger, kid-safe geometry
 -Splitting the original circuit into two independent modules (LED circuit + speaker circuit)
 -Exploring multiple mechanical approaches before committing to the final motion
@@ -27,6 +30,7 @@ This made the crocus a perfect conceptual guide for designing the bloom mechanis
 ---
 
 🖼️ Early Sketches
+
 Early sketches exploring petal geometry, hinge placement, and crocus-inspired bloom motion.
 
 (Add your images here once uploaded)
@@ -34,6 +38,7 @@ Early sketches exploring petal geometry, hinge placement, and crocus-inspired bl
 ---
 
 📂 Repo Structure
+
 Code
 sketches/                # Early design sketches  
 mechanism_exploration/   # Hinge studies, cam profiles, motion tests  
@@ -44,6 +49,7 @@ images/                  # Build progress photos
 ---
 
 🚧 Current Status
+
 -Refining cam design - may need to make a CAD version and 3D print it
 -Refining petal design
 -Creating part list
